@@ -1,5 +1,6 @@
 <img src="img/R_for_EnvSci_2022_version.png" alt="course logo" align="right" height="150pm"/> 
-
+<br>
+</br>
 
 ## Welcome to the Public Site for the University of Manitoba's **R for Environmental Sciences** (ENVR 4000 / GEOG 7010)
 
